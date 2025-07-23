@@ -3,10 +3,7 @@ using namespace std;
 
 
 int main(){
-    int a = 0;
-    const int &b = a;
-    cout << b << endl; // Output: 0
-    a = 6;
-    cout << b << endl; 
+    const int ci = 42; // i是一个整数
+    auto e = &ci;
     return 0;
 }
