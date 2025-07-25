@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "第2章 变量和基本类型"
             }
+          },
+          {
+            "id": "b4005d21f5821fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三章 字符串、向量和数组.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第三章 字符串、向量和数组"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,10 +206,25 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "586d508dfc918f1c",
+  "active": "b4005d21f5821fdb",
   "lastOpenFiles": [
-    "Chapter 2/2-35",
-    "Chapter 2/2-35.cpp",
+    "Chapter 3/3-11.md",
+    "Chapter 3/3-11.cpp",
+    "Chapter 3/3-10",
+    "Chapter 3/3-10.cpp",
+    "Chapter 3/3-9.md",
+    "Chapter 3/3-8",
+    "Chapter 3/3-8.cpp",
+    "Chapter 3/3-7.cpp",
+    "Chapter 3/3-6",
+    "Chapter 3/3-6.cpp",
+    "Chapter 3/3-5.cpp",
+    "Chapter 3/3-4.cpp",
+    "Chapter 3/3-3.md",
+    "附件/cctype.png",
+    "第2章 变量和基本类型.md",
+    "第三章 字符串、向量和数组.md",
+    "附件/Pasted image 20250725163654.png",
     "Chapter 2/2-17.md",
     "Chapter 2/2-16.md",
     "Chapter 2/2-15.md",
@@ -202,11 +232,7 @@
     "Chapter 2/2-144.md",
     "Chapter 2/2-13.md",
     "Chapter 2/2-12.md",
-    "第2章 变量和基本类型.md",
-    "test",
-    "test.cpp",
     "附件/C++ Arithmetic Types.png",
-    "附件",
     "自我介绍.md",
     "计算机网络复习-分层结构.md",
     "计算机网络复习-绪论.md",
@@ -217,28 +243,17 @@
     "附件/Pasted image 20250613164119.png",
     "附件/Pasted image 20250613164051.png",
     "MPLab2-221220076-落华栋.md",
-    "Jar包执行方式说明.txt",
-    "MPLab2-221220076-落华栋.pdf",
     "附件/Pasted image 20250330201013.png",
     "附件/Pasted image 20250330200956.png",
     "附件/Pasted image 20250330200927.png",
-    "附件/Pasted image 20250330200908.png",
-    "221220076_落华栋_BG_1.pdf",
-    "附件/Pasted image 20250330200822.png",
     "大数据实验一实验报告.md",
     "report.md",
-    "大数据实验一实验报告.pdf",
     "志愿填报.md",
     "第一次作业.md",
     "字符串.md",
     "滑动窗口.md",
     "README.md",
-    "SADA(1)(1).pdf",
     "力扣/力扣日常.md",
-    "位运算、双指针与二分.md",
-    "CF和Atcoder/Atcoder补题.md",
-    "动态规划.md",
-    "CF和Atcoder",
     "未命名.canvas"
   ]
 }
